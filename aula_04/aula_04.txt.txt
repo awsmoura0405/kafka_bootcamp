@@ -1,0 +1,1 @@
+Revisão dos exercícios de exchange_type direct e topic que estão no notebook da aula 03.
